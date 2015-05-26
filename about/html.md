@@ -1,14 +1,19 @@
-Basically, html is a language that allows you to display and format content on web pages. It is comprised of text and markup which is made up of tags. For example, you can use tags to display an image, to make text bold, to make a table, to make a form, or to link to other pages. 
+Basically, html (which stands for hyper text markup language) is a language that allows you to display and format content on web pages. It is comprised of text and markup which is made up of tags. There are different html "elements" comprised of tags that allow you to do things such as:
+* display an image
+* make text bold
+* make a table
+* make a form
+* link to other pages. 
 
-There are different html "elements" that allow you to do these things. Elements can be simple such as 
+Elements can be simple such as 
 
-```
+```html
 <b> Hey I am bold </b>
 ```
 
 Or complex such as 
 
-```
+```html
 <form action="" method="post">
   <fieldset>
     <legend>Title</legend>
