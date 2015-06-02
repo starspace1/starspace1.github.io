@@ -20,6 +20,10 @@ Since last writing, I've learned:
   - .save
   - .update_all
   - .destroy
+  - .toggle
+  - .toggle!
+  - .delete_all
+  - .any?
 - HTML forms
   - action
   - text
@@ -30,3 +34,14 @@ Since last writing, I've learned:
   - how to submit
   - how to take what the form is submitting and create a new db record from it
 - HTTP verbs (GET and POST)
+  - Still need to 100% clarify when to use each
+- New ruby methods:
+  - .strip
+  - that attr_accessor exists
+- Regular expressions!
+  - they are strange and cool
+  - matches return STRINGS NOT INTEGERS
+- More about routing
+  - Redirects
+  - CHROME CACHES REDIRECTS
+  - Use WEBrick::HTTPServlet to use regular expression in URLs
