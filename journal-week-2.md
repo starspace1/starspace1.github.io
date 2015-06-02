@@ -35,7 +35,7 @@ Since last writing, I've learned:
   - how to take what the form is submitting and create a new db record from it
 - HTTP verbs (GET and POST)
   - Still need to 100% clarify when to use each
-- New ruby methods:
+- New ruby:
   - .strip
   - that attr_accessor exists
 - Regular expressions!
