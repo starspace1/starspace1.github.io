@@ -1,6 +1,4 @@
-During week 2, we got a start on using ActiveRecord, databases, and html forms.
-
-Since last writing, I've learned:
+During week 2, we got a start on using ActiveRecord, databases, and html forms. Since last writing, I've learned:
 
 - How to create a table in a database (create_table)
 - How to define the columns and data types of a table in a database (and set default column values)
