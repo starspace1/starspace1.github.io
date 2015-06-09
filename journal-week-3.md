@@ -1,4 +1,4 @@
-Last week, we learned about Rails for the first time. We learned how to create a rails application from scratch, how to use the routes file, and about MVC (Model-View-Controller) concepts, including how to create them in rails.
+Last week, we learned about Rails for the first time. We learned how to create a rails application from scratch, how to use the routes file, and about MVC (Model-View-Controller) concepts, including how to create them in rails. We learned the shortcuts for rails commands (for example, ```rails generate model``` can just be ```rails g model```).
 
 First, we refactored the "Todo List" app that we created the week before. It was strange kind of "shoe-horn"-ing the non-rails code into the rails app, but I made some of it work, aside from the styling. I didn't know what to do with that, and the MVC concepts seemed hard to apply to this because we only had one controller and one view. I'm not sure why that confused me, in hindsight, because we also only had one model :/
 
