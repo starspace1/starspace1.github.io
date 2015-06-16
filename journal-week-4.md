@@ -1,4 +1,6 @@
-Most of last week was spent learning about TDD (Test Driven Development). 
+Most of last week was spent learning about TDD (Test Driven Development). I thought that the Roman Numerals converter was a great intro to TDD. I am also glad we got that assignment ahead of time so that I could get started on it. Same with tic-tac-toe, which was the next TDD assignemnt we had. 
+
+Thing I learned since last writing:
 * TDD (red/green/refactor) 
     * I really liked being forced to write some code using this method. I found that if I was very disciplined about the methodology, my final code product was different than it would have been had I just "gone for it" ... which is my usual style.
     * There were some times (for example, console I/O) where I felt like the TDD method wasn't particularly well-suited.
