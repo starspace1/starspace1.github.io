@@ -1,0 +1,45 @@
+During week 2, we got a start on using ActiveRecord, databases, and html forms. Since last writing, I've learned:
+
+- How to create a table in a database (create_table)
+- How to define the columns and data types of a table in a database (and set default column values)
+- How to add, update, and remove records in database
+- What happens under the hood with MySQL
+- How to refactor json and csv code to use ActiveRecord and MySQL
+- How to hook up a class to a database (inherit from ActiveRecord::Base and use "establish_connection")
+- How to write class methods for classes that are hooked up to a database
+- ActiveRecord methods:
+  - .all
+  - .where
+  - .create
+  - .size
+  - .update
+  - .first
+  - .find_by
+  - .save
+  - .update_all
+  - .destroy
+  - .toggle
+  - .toggle!
+  - .delete_all
+  - .any?
+- HTML forms
+  - action
+  - text
+  - radio buttons
+  - checkboxes
+  - name
+  - fieldset
+  - how to submit
+  - how to take what the form is submitting and create a new db record from it
+- HTTP verbs (GET and POST)
+  - Still need to 100% clarify when to use each
+- New ruby:
+  - .strip
+  - that attr_accessor exists
+- Regular expressions!
+  - they are strange and cool
+  - matches return STRINGS NOT INTEGERS
+- More about routing
+  - Redirects
+  - CHROME CACHES REDIRECTS
+  - Use WEBrick::HTTPServlet to use regular expression in URLs
