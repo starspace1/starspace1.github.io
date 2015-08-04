@@ -1,10 +1,2 @@
----
-permalink: index.html
----
-
-# This is a Heading
-
-* this is a bulleted list
-* it has items on it
-
-[Ruby Basics](about/ruby.md)
+## Welcome to starspace1.github.io
+### In which I write journal entries about what I've learned in the TIY Rails Engineering course each week.
